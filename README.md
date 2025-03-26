@@ -2,6 +2,9 @@
 
 A Model Context Protocol server that provides access to Kuzu databases. This server enables LLMs to inspect database schemas and execute queries on provided kuzu database.
 
+See our blog on how to use Kuzu MCP server to debugging data issues: [Debugging data, not just code: Using Cursor with Kuzu-MCP](https://blog.kuzudb.com/post/2025-03-23-kuzu-mcp-server/)
+
+
 ## Components
 ### Tools 
 - getSchema
